@@ -1,5 +1,7 @@
 # 北极星指标
 
+参考文献：https://haosquare.com/north-star-metric-framework/
+
 北極星指標（North Star Metric）是對商業行為或系統的度量（Metric），這項度量需要可量化、並且要能反映出顧客體驗或滿意程度。
 
 除了量化顧客滿意程度，好的北極星指標具有三大特質：
